@@ -1,0 +1,10 @@
+employee_full_name,employee_title,total_sale_amount_excluding_discount,number_unique_orders,number_orders,average_product_amount,average_order_amount,total_discount_amount,total_sale_amount_including_discount,total_discount_percentage
+Margaret Peacock,Sales Representative,232890.85,156,420,26.64,1492.89,17296.6,250187.45,6.91
+Janet Leverling,Sales Representative,202812.84,127,321,27.25,1596.95,10238.46,213051.3,4.81
+Nancy Davolio,Sales Representative,192107.6,123,345,25.31,1561.85,10036.11,202143.71,4.96
+Andrew Fuller,"Vice President, Sales",166537.76,96,241,28.69,1734.77,11211.51,177749.26,6.31
+Laura Callahan,Inside Sales Coordinator,126862.28,104,260,24,1219.83,6438.75,133301.03,4.83
+Robert King,Sales Representative,124568.23,72,176,26.8,1730.11,16727.76,141295.99,11.84
+Anne Dodsworth,Sales Representative,77308.07,43,107,31.59,1797.86,5655.93,82964,6.82
+Michael Suyama,Sales Representative,73913.13,67,168,22.83,1103.18,4284.97,78198.1,5.48
+Steven Buchanan,Sales Manager,68792.28,42,117,23.48,1637.91,6775.47,75567.75,8.97
